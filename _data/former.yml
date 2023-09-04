@@ -1,3 +1,18 @@
+- name: Emily Doehring
+  photo: EmilyDoehring.png
+  info: Computer Science BS
+  email: emily.h.doehring@vanderbilt.edu
+  number_educ: 1
+  education1: 2022 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/emily-doehring/
+  twitter: 0
+  github: 0
+
 - name: Norman Jetmundsen
   photo: NormanJetmundsen.png
   info: Computer Science BS
