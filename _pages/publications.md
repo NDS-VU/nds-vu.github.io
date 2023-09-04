@@ -49,6 +49,10 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Recent Preprints and Submissions
 
+[A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/abs/2308.16375)\
+Yi Zhang, Yuying Zhao, Zhaoqing Li, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S. Yu, and Tyler Derr. \
+arXiv preprint arXiv:2308.16375 (2023).
+
 [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644)\
 Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and Tyler Derr. \
 arXiv preprint arXiv:2307.04644 (2023).
