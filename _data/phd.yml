@@ -4,10 +4,10 @@
   photo: YuWang.png
   info: Computer Science PhD
   email: yu.wang.1@vanderbilt.edu
-  number_educ: 1
+  number_educ: 3
   education1: Vanderbilt Russell G. Hamilton Graduate Scholars Award
-  education2: 
-  education3: 
+  education2: 2023 - VU Graduate Leadership Anchor Award in Research 
+  education3: 2022 - VU C.F. Chen Best Paper Award in CS
   education4: 
   education5:
   website: https://yuwvandy.github.io/
@@ -19,9 +19,9 @@
   photo: YuyingZhao.png
   info: Computer Science PhD
   email: yuying.zhao@vanderbilt.edu
-  number_educ: 1
+  number_educ: 2
   education1: Vanderbilt IBM Fellowship Award
-  education2: 
+  education2: 2023 - VU C.F. Chen Best Paper Runner-up Award in CS
   education3: 
   education4: 
   education5:
@@ -34,9 +34,9 @@
   photo: YunchaoLiu.png
   info: Computer Science PhD
   email: yunchao.liu@vanderbilt.edu
-  number_educ: 1
+  number_educ: 2
   education1: Co-advised with Meiler Lab @ VU
-  education2:
+  education2: 2022 - Awarded Nvidia Academic Hardware Grant
   education3: 
   education4: 
   education5:
@@ -44,3 +44,33 @@
   linkedin: https://www.linkedin.com/in/yunchaoliu/
   twitter: https://twitter.com/YunchaoLanceLiu
   github: https://github.com/YunchaoLiu
+
+- name: Xueqi Cheng
+  photo: XueqiCheng.png
+  info: Computer Science PhD
+  email: xueqi.cheng@vanderbilt.edu
+  number_educ: 1
+  education1: Vanderbilt IBM Fellowship Award
+  education2:
+  education3: 
+  education4: 
+  education5:
+  website: https://xueqic.github.io/
+  linkedin: https://www.linkedin.com/in/xqc/
+  twitter: 
+  github: https://github.com/XueqiC
+
+- name: Anne Tumlin
+  photo: AnneTumlin.png
+  info: Computer Science PhD
+  email: anne.m.tumlin@vanderbilt.edu
+  number_educ: 2
+  education1: Co-advised with VeriVITAL Lab @ VU
+  education2: Vanderbilt Russell G. Hamilton Graduate Scholars Award
+  education3: 
+  education4: 
+  education5:
+  website: 
+  linkedin: https://www.linkedin.com/in/anne-tumlin-176a551ab/
+  twitter: 
+  github: https://github.com/atumlin
