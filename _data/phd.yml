@@ -70,13 +70,13 @@
   education3: 
   education4: 
   education5:
-  website: 0
+  website: https://github.com/atumlin
   linkedin: https://www.linkedin.com/in/anne-tumlin-176a551ab/
   twitter: 0
   github: https://github.com/atumlin
 
 - name: Bo Ni
-  photo: 0
+  photo: NoPhoto.png
   info: Computer Science PhD
   email: bo.ni@vanderbilt.edu
   number_educ: 0
