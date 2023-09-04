@@ -13,6 +13,21 @@
   twitter: 0
   github: https://github.com/benvansleen
 
+- name: Xin (Allen) Wang
+  photo: XinWang.png
+  info: Computer Science MS
+  email: xin.wang.1@vanderbilt.edu
+  number_educ: 1
+  education1: Vanderbilt Engineering Graduate Fellowship Award
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: 0 
+  twitter: 0
+  github: https://github.com/xwang38438
+  
 - name: Catherine Yang
   photo: CatherineYang.png
   info: Computer Science BS+MS
@@ -28,16 +43,3 @@
   twitter: 0
   github: 0
 
-- name: Xin (Allen) Wang
-  photo: XinWang.png
-  info: Computer Science MS
-  email: xin.wang.1@vanderbilt.edu
-  number_educ: 1
-  education1: Vanderbilt Engineering Graduate Fellowship Award
-  education2: 
-  education3: 
-  education4: 
-  education5: 
-  linkedin: 0 
-  twitter: 0
-  github: https://github.com/xwang38438
