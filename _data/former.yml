@@ -1,3 +1,18 @@
+- name: Ben Van Sleen
+  photo: BenVanSleen.png
+  info: Computer Science MS
+  email: benjamin.h.van.sleen@vanderbilt.edu
+  number_educ: 3
+  education1: DSI-SRP Fellow (Summer 2021)
+  education2: Computer Engineering & Economics BS
+  education3: Summer 2021 - Present
+  education4: 
+  education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/benvansleen
+  twitter: 0
+  github: https://github.com/benvansleen
+
 - name: Emily Doehring
   photo: EmilyDoehring.png
   info: Computer Science BS
