@@ -49,9 +49,18 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Recent Preprints and Submissions
 
+
+[A Survey of Graph Unlearning](https://arxiv.org/abs/2310.02164)\
+Anwar Said, Tyler Derr, Mudassir Shabbir, Waseem Abbas, and Xenofon Koutsoukos. \
+arXiv preprint arXiv:2310.02164 (2023).
+
 [A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications](https://arxiv.org/abs/2308.16375)\
 Yi Zhang, Yuying Zhao, Zhaoqing Li, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S. Yu, and Tyler Derr. \
 arXiv preprint arXiv:2308.16375 (2023).
+
+[Knowledge Graph Prompting for Multi-Document Question Answering](https://arxiv.org/abs/2308.11730)\
+Yu Wang, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr. \
+arXiv preprint arXiv:2308.11730 (2023).
 
 [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644)\
 Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and Tyler Derr. \
@@ -65,10 +74,6 @@ arXiv preprint arXiv:2307.03929 (2023).
 Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal and Tyler Derr.\
 non-archival version accepted at Mining and Learning on Graphs (MLG) Workshop at KDD 2023. 
 
-[NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics](https://arxiv.org/abs/2306.06202)\
-Anwar Said, Roza G. Bayrak, Tyler Derr, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos.\
-arXiv preprint arXiv:2306.06202 (2023).
-
 [Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling](https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1.abstract)\
 Yunchao "Lance" Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, Tyler Derr, Jens Meiler.
 bioRxiv preprint (2023). 
@@ -79,6 +84,18 @@ arXiv preprint arXiv:2110.12035 (2021).
 
 
 ### Publications in 2023
+
+An In-depth Analysis of the Broken Ties on Twitter\
+Kiana Kheiri, Muhammad Fawad Akbar Khan, Tyler Derr, and Hamid Karimi.\
+In Proceedings of the IEEE International Conference on Big Data (Big Data), Sorrento, Italy, December 15-18, 2023.
+
+[NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics](https://arxiv.org/abs/2306.06202)\
+Anwar Said, Roza G. Bayrak, Tyler Derr, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos.\
+Advances in Neural Information Processing (NeurIPS), New Orleans, LA, USA, December 10 - 16, 2023.
+
+[Enhanced Graph Neural Networks with Ego-Centric Spectral Subgraph Embeddings Augmentation](https://arxiv.org/abs/2310.12169)\ 
+Anwar Said, Mudassir Shabbir, Tyler Derr, Waseem Abbas, and Xenofon Koutsoukos. 
+In Proceedings of the 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, December 15-17, 2023.
 
 Adversarial Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles\
 Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang.\
