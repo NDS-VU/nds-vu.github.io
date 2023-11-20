@@ -1,8 +1,21 @@
+
 - date: 11/2023
-  headline: "Yunchao (Lance) Liu entered the finalist in Vanderbilt 3MT competition. Congratulations!"
+  headline: "Out tutorial ``Data Quality-Aware Graph Machine Learning,'' led by Yu, is accepted at SDM'24!"
+
+- date: 11/2023
+  headline: "Tyler invited to serve as an Associate Editor of Tsinghua Science and Techonology!"
+
+- date: 11/2023
+  headline: "Yunchao (Lance) Liu selected as a finalist in Vanderbilt's 3MT Competition!"
+
+- date: 11/2023
+  headline: "Tyler invited to serve as Student Travel Award Chair at KDD'24!"
 
 - date: 11/2023
   headline: "Our <a href=\"https://mlog-workshop.github.io/wsdm24\" target=\"_blank\" rel=\"noopener noreferrer\">machine learning on graphs workshop</a> was accepted at WSDM'24 (currently on its 5th iteration)!"
+
+- date: 11/2023
+  headline: "Tyler gave an invited talk ''Data-Centric AI for Real-World Graph Applications'' at the ORNL Core Universities AI Workshop at Georgia Tech!"
 
 - date: 10/2023
   headline: "Yu's intern paper <a href=\"https://arxiv.org/abs/2308.11730\" target=\"_blank\" rel=\"noopener noreferrer\">Knowledge Graph Prompting for Multi-Document Question Answering</a>  was accepted to NeurIPS 2023 GLFrontiers Workshop!"
@@ -15,7 +28,7 @@
   and it's now online!"
 
 - date: 9/2023
-  headline: "Tyler invited to serve as an editor of IEEE Transactions on Big Data!"
+  headline: "Tyler invited to serve as an Associate Editor of IEEE Transactions on Big Data!"
 
 - date: 8/2023
   headline: "Our preprint <a href=\"https://arxiv.org/abs/2308.16375\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is now online!"
