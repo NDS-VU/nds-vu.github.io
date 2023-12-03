@@ -57,15 +57,16 @@ We are recruiting PhD students to work with us in the NDS Lab on topics in our g
  <img src="{{ site.url }}{{ site.baseurl }}/images/NDS_research.png" class="img-responsive" width="100%" style="float: center" />
 
 <br>
- We are grateful for our funding from the following:
+ We are grateful to the following for supporting our research:
 <br>
 <div class="center">
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/vu.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/afrl.jpg" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.jpg" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/thd.jpg" style="width: 100px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.jpg" style="width: 100px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/nvidia.png" style="width: 100px">  
 </figure>
 </div>
 
