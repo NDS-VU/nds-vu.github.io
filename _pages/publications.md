@@ -93,7 +93,7 @@ In Proceedings of the IEEE International Conference on Big Data (Big Data), Sorr
 Anwar Said, Roza G. Bayrak, Tyler Derr, Mudassir Shabbir, Daniel Moyer, Catie Chang, Xenofon Koutsoukos.\
 Advances in Neural Information Processing (NeurIPS), New Orleans, LA, USA, December 10 - 16, 2023.
 
-[Enhanced Graph Neural Networks with Ego-Centric Spectral Subgraph Embeddings Augmentation](https://arxiv.org/abs/2310.12169) \ 
+[Enhanced Graph Neural Networks with Ego-Centric Spectral Subgraph Embeddings Augmentation](https://arxiv.org/abs/2310.12169)\
 Anwar Said, Mudassir Shabbir, Tyler Derr, Waseem Abbas, and Xenofon Koutsoukos. 
 In Proceedings of the 22nd IEEE International Conference on Machine Learning and Applications (ICMLA), Jacksonville, FL, USA, December 15-17, 2023.
 
