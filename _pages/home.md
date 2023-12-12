@@ -66,7 +66,7 @@ We are recruiting PhD students to work with us in the NDS Lab on topics in our g
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/afrl.jpg" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/thd.jpg" style="width: 100px">
   <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/nvidia.png" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.jpg" style="width: 100px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.png" style="width: 100px">
 </figure>
 </div>
 
