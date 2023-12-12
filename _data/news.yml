@@ -1,14 +1,20 @@
-- date: 11/2023
-  headline: "Out tutorial ''Data Quality-Aware Graph Machine Learning'' led by Yu, is accepted at SDM'24!"
+- date: 12/2023
+  headline: "Yuying's paper ``Leveraging Opposite Gender Interaction Ratio as a Path Towards Fairness in Online Dating Recommendations Based on User Sexual Orientation'' is accepted at AAAI'24!"
+
+- date: 12/2023
+  headline: "Yu's paper <a href=\"https://arxiv.org/abs/2308.11730\" target=\"_blank\" rel=\"noopener noreferrer\">``Knowledge Graph Prompting for Multi-Document Question Answering''</a> is accepted at AAAI'24!"
 
 - date: 11/2023
-  headline: "Tyler invited to serve as an Associate Editor of <a href=\"https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=5971803\" target=\"_blank\" rel=\"noopener noreferrer\">Tsinghua Science and Techonology</a>!"
+  headline: "Our tutorial ''Data Quality-Aware Graph Machine Learning'' led by Yu, is accepted at SDM'24!"
 
 - date: 11/2023
-  headline: "Yunchao (Lance) Liu selected as a finalist in Vanderbilt's 3MT Competition!"
+  headline: "Tyler invited to serve as an Associate Editor of Tsinghua Science and Techonology!"
 
 - date: 11/2023
-  headline: "Tyler invited to serve as Student Travel Award Chair at KDD'24!"
+  headline: "Lance is selected as a Finalist in Vanderbilt's 3MT Competition!"
+
+- date: 11/2023
+  headline: "Tyler is invited to serve as Student Travel Award Chair at KDD'24!"
 
 - date: 11/2023
   headline: "Our <a href=\"https://mlog-workshop.github.io/wsdm24\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG) Workshop</a> was accepted at WSDM'24 (currently on its 5th iteration)!"
@@ -17,14 +23,29 @@
   headline: "Tyler gave an invited talk ''Data-Centric AI for Real-World Graph Applications'' at the ORNL Core Universities AI Workshop at Georgia Tech!"
 
 - date: 10/2023
+  headline: "Our preprint <a href=\"https://arxiv.org/abs/2310.04612\" target=\"_blank\" rel=\"noopener noreferrer\">A Topological Perspective on Demystifying GNN-Based Link Prediction Performance</a>  is now online!"
+
+- date: 11/2023
+  headline: "Tyler is invited to serve as Publicity Chair for DSAA'24!"
+
+- date: 10/2023
   headline: "Yu's intern paper <a href=\"https://arxiv.org/abs/2308.11730\" target=\"_blank\" rel=\"noopener noreferrer\">Knowledge Graph Prompting for Multi-Document Question Answering</a>  was accepted to NeurIPS 2023 GLFrontiers Workshop!"
 
 - date: 9/2023
-  headline: "Yuying accepts her return offer to join Visa as a PhD research intern for Summer'24 in Foster City!"
+  headline: "Our preprint <a href=\"https://arxiv.org/abs/2310.02164\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey of Graph Unlearning</a>  is now online!"
+
+- date: 9/2023
+  headline: "Our paper <a href=\"https://arxiv.org/abs/2306.06202\" target=\"_blank\" rel=\"noopener noreferrer\">``NeuroGraph: Benchmarks for Graph Machine Learning in Brain Connectomics''</a> is accepted at NeurIPS'23 Benchmark and Dataset Track!"
+
+- date: 9/2023
+  headline: "Yuying accepts her return offer to join Visa Research as a PhD research intern for Summer'24!"
 
 - date: 9/2023
   headline: "Yu's internship work with Adobe has been transformed into a medium article <a href=\"https://blog.gopenai.com/knowledge-graph-prompting-a-new-approach-for-multi-document-question-answering-ab5c4006a429/\" target=\"_blank\" rel=\"noopener noreferrer\">''Knowledge Graph Prompting: A New Approach for Multi-Document Question Answering''</a>  
   and it's now online!"
+
+- date: 9/2023
+  headline: "Tyler gave an invited talk ''Enhancing Graph Neural Networks with Data Quality-Aware Learning'' at the Institute for Artificial Intelligence, Tsinghua University!"
 
 - date: 9/2023
   headline: "Tyler invited to serve as an Associate Editor of IEEE Transactions on Big Data!"
@@ -111,7 +132,7 @@
   headline: "YEAR"
 
 - date: 12/2022
-  headline: "Yuying accepts her offer to join Visa as a PhD research intern for Summer'23!"
+  headline: "Yuying accepts her offer to join Visa Research as a PhD research intern for Summer'23!"
 
 - date: 12/2022
   headline: "Yu accepts his offer to join Adobe as a PhD research intern for Summer'23!"
