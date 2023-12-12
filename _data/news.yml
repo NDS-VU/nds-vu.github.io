@@ -20,6 +20,9 @@
   headline: "Our <a href=\"https://mlog-workshop.github.io/wsdm24\" target=\"_blank\" rel=\"noopener noreferrer\">Machine Learning on Graphs (MLoG) Workshop</a> was accepted at WSDM'24 (currently on its 5th iteration)!"
 
 - date: 11/2023
+  headline: "Our paper ``An In-depth Analysis of the Broken Ties on Twitter'' is accepted at IEEE BigData'23!"
+
+- date: 11/2023
   headline: "Tyler gave an invited talk ''Data-Centric AI for Real-World Graph Applications'' at the ORNL Core Universities AI Workshop at Georgia Tech!"
 
 - date: 10/2023
