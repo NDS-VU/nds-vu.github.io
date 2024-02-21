@@ -77,7 +77,7 @@ bioRxiv preprint (2023).
 Yu Wang, Charu Aggarwal, and Tyler Derr\
 arXiv preprint arXiv:2110.12035 (2021).
 
-#### Publications in 2024
+### Publications in 2024
 
 [Knowledge Graph Prompting for Multi-Document Question Answering](https://arxiv.org/abs/2308.11730)\
 Yu Wang, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr. \
