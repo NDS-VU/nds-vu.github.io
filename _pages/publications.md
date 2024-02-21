@@ -49,6 +49,13 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Recent Preprints and Submissions
 
+[Robust Graph Neural Networks via Unbiased Aggregation](https://arxiv.org/pdf/2311.14934.pdf)\
+Ruiqi Feng, Zhichao Hou, Tyler Derr, Xiaorui Liu. \
+arXiv preprint arXiv:2311.14934 (2023).
+
+[A Topological Perspective on Demystifying GNN-Based Link Prediction Performance](https://arxiv.org/pdf/2310.04612.pdf)\
+Yu Wang, Tong Zhao, Yuying Zhao, Yunchao Liu, Xueqi Cheng, Neil Shah, Tyler Derr. \
+arXiv preprint arXiv:2310.04612 (2023).
 
 [A Survey of Graph Unlearning](https://arxiv.org/abs/2310.02164)\
 Anwar Said, Tyler Derr, Mudassir Shabbir, Waseem Abbas, and Xenofon Koutsoukos. \
@@ -58,32 +65,33 @@ arXiv preprint arXiv:2310.02164 (2023).
 Yi Zhang, Yuying Zhao, Zhaoqing Li, Xueqi Cheng, Yu Wang, Olivera Kotevska, Philip S. Yu, and Tyler Derr. \
 arXiv preprint arXiv:2308.16375 (2023).
 
-[Knowledge Graph Prompting for Multi-Document Question Answering](https://arxiv.org/abs/2308.11730)\
-Yu Wang, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr. \
-arXiv preprint arXiv:2308.11730 (2023).
-
 [Fairness and Diversity in Recommender Systems: A Survey](https://arxiv.org/abs/2307.04644)\
 Yuying Zhao, Yu Wang, Yunchao Liu, Xueqi Cheng, Charu Aggarwal, and Tyler Derr. \
 arXiv preprint arXiv:2307.04644 (2023).
 
-[Fairness-Aware Graph Neural Networks: A Survey](https://arxiv.org/abs/2307.03929)\
-April Chen, Ryan A. Rossi, Namyong Park, Puja Trivedi, Yu Wang, Tong Yu, Sungchul Kim, Franck Dernoncourt, and Nesreen K. Ahmed.\
-arXiv preprint arXiv:2307.03929 (2023).
-
-[Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf)\
-Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal and Tyler Derr.\
-non-archival version accepted at Mining and Learning on Graphs (MLG) Workshop at KDD 2023. 
-
 [Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling](https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1.abstract)\
-Yunchao "Lance" Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, Tyler Derr, Jens Meiler.
+Yunchao "Lance" Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, Tyler Derr, Jens Meiler. \
 bioRxiv preprint (2023). 
 
 [Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification](https://yuwvandy.github.io/paper/dpgnn.pdf)\
 Yu Wang, Charu Aggarwal, and Tyler Derr\
 arXiv preprint arXiv:2110.12035 (2021).
 
+#### Publications in 2024
+
+[Knowledge Graph Prompting for Multi-Document Question Answering](https://arxiv.org/abs/2308.11730)\
+Yu Wang, Nedim Lipka, Ryan A. Rossi, Alexa Siu, Ruiyi Zhang, Tyler Derr. \
+In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), Vancouver, CA, February 20-27, 2024.
+
+[Fairness-Aware Graph Neural Networks: A Survey](https://arxiv.org/abs/2307.03929)\
+April Chen, Ryan A. Rossi, Namyong Park, Puja Trivedi, Yu Wang, Tong Yu, Sungchul Kim, Franck Dernoncourt, Nesreen K. Ahmed. \
+In Proceedings of the 40th IEEE Transactions on Knowledge and Data Engineering (TKDE), Utrecht, Netherlands, May 13 - 17, 2024
 
 ### Publications in 2023
+
+[Fair Online Dating Recommendations for Sexually Fluid Users via Leveraging Opposite Gender Interaction Ratio](https://www.mlgworkshop.org/2023/papers/MLG__KDD_2023_paper_22.pdf)\
+Yuying Zhao, Yu Wang, Yi Zhang, Pamela Wisniewski, Charu Aggarwal, Tyler Derr.\
+non-archival version accepted at Mining and Learning on Graphs (MLG) Workshop at KDD 2023. 
 
 An In-depth Analysis of the Broken Ties on Twitter\
 Kiana Kheiri, Muhammad Fawad Akbar Khan, Tyler Derr, and Hamid Karimi.\
