@@ -85,7 +85,7 @@ In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), Va
 
 [Fairness-Aware Graph Neural Networks: A Survey](https://arxiv.org/abs/2307.03929)\
 April Chen, Ryan A. Rossi, Namyong Park, Puja Trivedi, Yu Wang, Tong Yu, Sungchul Kim, Franck Dernoncourt, Nesreen K. Ahmed. \
-In Proceedings of the 40th IEEE Transactions on Knowledge and Data Engineering (TKDE), Utrecht, Netherlands, May 13 - 17, 2024
+In Proceedings of the 40th IEEE Transactions on Knowledge and Data Engineering (TKDE), Utrecht, Netherlands, May 13 - 17, 2024.
 
 ### Publications in 2023
 
