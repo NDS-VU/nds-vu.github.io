@@ -85,7 +85,10 @@ Location: Mesquite Room (at The Westin Houston, Memorial City in Houston, TX)
 <br>
 
 ## Slides
-<embed src="{{ site.url }}{{ site.baseurl }}/_pages/SDM24_DataQualityAwareGraphMachineLearning_TutorialSlides.pdf" width="700px" />
+You can download our slides or see them embedded below.
+Download <a href="https://nds-vu.github.io/_pages/SDM24_DataQualityAwareGraphMachineLearning_TutorialSlides.pdf"> link</a>
+
+<embed src="{{ site.url }}{{ site.baseurl }}/_pages/SDM24_DataQualityAwareGraphMachineLearning_TutorialSlides.pdf" width="700px" height="500px" />
 
 ## Speakers Bio's
 
