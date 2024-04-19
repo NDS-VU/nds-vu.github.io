@@ -32,7 +32,7 @@ Location: TBD at Westin Houston, Memorial City in Houston, TX
     Topology Issues
     <ul>
       <li> Global Positional Issues</li>
-      <li> Local Environment Issues</li>
+      <li> Local Topology Issues</li>
       <li> Missing Graph Issues</li>
       <li> Future Directions</li>
     </ul>
@@ -43,7 +43,6 @@ Location: TBD at Westin Houston, Memorial City in Houston, TX
     <ul>
       <li> Node-level Imbalance</li>
       <li> Edge-level Imbalance</li>
-      <li> Graph-level Imbalance</li>
       <li> Future Directions</li>
     </ul>
   </li>
@@ -78,6 +77,9 @@ Location: TBD at Westin Houston, Memorial City in Houston, TX
   </li>
   
 </ul>
+
+## Summary
+![](./tree.png)
 
 ## Slides
 Coming soon!
