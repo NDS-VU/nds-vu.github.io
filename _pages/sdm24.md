@@ -32,7 +32,7 @@ Location: TBD at Westin Houston, Memorial City in Houston, TX
     Topology Issues
     <ul>
       <li> Global Positional Issues</li>
-      <li> Local Environment Issues</li>
+      <li> Local Topology Issues</li>
       <li> Missing Graph Issues</li>
       <li> Future Directions</li>
     </ul>
