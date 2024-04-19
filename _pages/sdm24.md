@@ -81,6 +81,7 @@ Location: Mesquite Room (at The Westin Houston, Memorial City in Houston, TX)
 
 ## Summary
 ![](./SDM24_Tutorial.png)
+<img src="{{ site.url }}{{ site.baseurl }}/images/SDM24_Tutorial.png" class="img-responsive" width="50%" style="float: left" />
 
 ## Slides
 Coming soon!
