@@ -80,7 +80,7 @@ Location: Mesquite Room (at The Westin Houston, Memorial City in Houston, TX)
 </ul>
 
 ## Summary
-<img src="{{ site.url }}{{ site.baseurl }}/images/SDM24_Tutorial.png" class="img-responsive" width="75%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/SDM24_Tutorial.png" class="img-responsive" width="75%" />
 <br>
 <br>
 
