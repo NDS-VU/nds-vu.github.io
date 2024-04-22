@@ -3,7 +3,7 @@ title: "SDM24"
 layout: textlay
 excerpt: "SDM24"
 sitemap: false
-permalink: /sdm24/
+permalink: /tutorials/sdm24/
 ---
 
 # Data Quality-Aware Graph Machine Learning Tutorial at SDM'24
