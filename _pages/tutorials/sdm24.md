@@ -1,7 +1,7 @@
 ---
-title: "SDM'24 Tutorial"
+title: "SDM24"
 layout: textlay
-excerpt: "SDM'24 Tutorial"
+excerpt: "SDM24"
 sitemap: false
 permalink: /sdm24/
 ---
