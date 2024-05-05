@@ -1,3 +1,33 @@
+- date: 4/2024
+  headline: "Lance's team won 1st Place in VU's AI Showcase by the Data Science Institute!"
+
+- date: 4/2024
+  headline: "Our tutorial on ``Data Quality-Aware Graph Machine Learning'' is now <a href=\"https://nds-vu.github.io/tutorials/sdm24/\" target=\"_blank\" rel=\"noopener noreferrer\">online</a> and was presented at SDM'24!"
+
+- date: 4/2024
+  headline: "Yu receives the Best Doctoral Forum Poster Runner-Up Award at SDM'24!"
+
+- date: 4/2024
+  headline: "Anne is awarded the Department of Energy (DOE) Computational Science Graduate Fellowship!"
+
+- date: 4/2024
+  headline: "Yuying's paper <a href=\"https://arxiv.org/abs/2307.04644\" target=\"_blank\" rel=\"noopener noreferrer\">''Fairness and Diversity in Recommender Systems: A Survey''</a> is accepted at ACM TIST!"
+
+- date: 3/2024
+  headline: "Catherine successfully defended her MS thesis ''An Analysis of Local Neighborhood-based Paradoxes in Signed Social Networks!''"
+
+- date: 11/2023
+  headline: "Tyler and Yu are invited to serve as Student Travel Award Chair at CIKM'24!"
+
+- date: 3/2024
+  headline: "Yu is awarded Vanderbilt's Outstanding Doctoral Student Award! (one of three for the whole university)"
+
+- date: 3/2024
+  headline: "Yu will join University of Oregon as a Tenure-track Assistant Professor in Computer Science starting Fall'24!"
+
+- date: 2/2024
+  headline: "Laura is selected for the 2024 Vanderbilt Undergraduate Summer Research Program (VUSRP)!"
+
 - date: 2/2024
   headline: "Yu's paper ''Knowledge Graph-based Session Recommendation with Session-Adaptive Propagation'' is accepted at WWW'24!"
 
@@ -12,6 +42,9 @@
 
 - date: 2023
   headline: "YEAR"
+
+- date: 11/2023
+  headline: "Tyler receives Vanderbilt's Provost Immersion Grant for Faculty!"
 
 - date: 12/2023
   headline: "Yu's paper <a href=\"https://arxiv.org/abs/2308.11730\" target=\"_blank\" rel=\"noopener noreferrer\">''Knowledge Graph Prompting for Multi-Document Question Answering''</a> received the Best Paper Award in the New Frontiers of Graph ML workshop at NeurIPS’24!"
