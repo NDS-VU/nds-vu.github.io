@@ -8,7 +8,7 @@ permalink: /
 
 <!-- For now, you can see our memebers [here](people). -->
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -24,14 +24,17 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/NDS_logo.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy1.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/Lab_Event_S24_games.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy1.jpg" alt="Slide 3" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy2.jpg" alt="Slide 4" />
         </div>
         <!-- 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy3.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carousel/vandy3.jpg" alt="Slide 5" />
         </div>
         -->
     </div>
