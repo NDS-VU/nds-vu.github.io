@@ -11,7 +11,7 @@
   headline: "Tyler was invited to serve as Associate Editor for ACM Transactions on Knowledge Discovery from Data (TKDD)!"
   
 - date: 8/2024
-  headline: "Tyler gave an invited keynote ‘’Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability’’ at the Ethical Artificial Intelligence Methods and Applications (EAI-KDD) Workshop at KDD2024!"
+  headline: "Tyler gave an invited keynote ‘’Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability’’ at the <a href=\"https://ai-activities.github.io/EAI-workshop-24/keynote/\" target=\"_blank\" rel=\"noopener noreferrer\">Ethical Artificial Intelligence Methods and Applications (EAI-KDD) Workshop</a> at KDD2024!"
   
 - date: 7/2024
   headline: "Our paper <a href=\"https://arxiv.org/abs/2405.17602\" target=\"_blank\" rel=\"noopener noreferrer\">Augmenting Textual Generation via Topology Aware Retrieval</a>  is accepted at CIKM2024!"
