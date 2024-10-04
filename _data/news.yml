@@ -1,3 +1,42 @@
+- date: 9/2024
+  headline: "Our paper <a href=\"https://www.welqrate.org/\" target=\"_blank\" rel=\"noopener noreferrer\">WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking</a> is accepted at NeurIPS2024!"
+  
+- date: 9/2024
+  headline: "Anne’s first PhD paper ‘’FairNNV: The Neural Network Verification Tool For Certifying Fairness’’ is accepted at ACM Conference on AI in Finance (ICAIF2024)!"
+
+- date: 8/2024
+  headline: "Our paper <a href=\"https://arxiv.org/abs/2308.16375\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is accepted at IEEE TKDE!"
+  
+- date: 8/2024
+  headline: "Tyler was invited to serve as Associate Editor for ACM Transactions on Knowledge Discovery from Data (TKDD)!"
+  
+- date: 8/2024
+  headline: "Tyler gave an invited keynote ‘’Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability’’ at the Ethical Artificial Intelligence Methods and Applications (EAI-KDD) Workshop at KDD2024!"
+  
+- date: 7/2024
+  headline: "Our paper <a href=\"https://arxiv.org/abs/2405.17602\" target=\"_blank\" rel=\"noopener noreferrer\">Augmenting Textual Generation via Topology Aware Retrieval</a>  is accepted at CIKM2024!"
+  
+- date: 7/2024
+  headline: "Bo was accepted into the CIKM 2024 PhD Symposium for his work “Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective”!"
+  
+- date: 7/2024
+  headline: "Our tutorial <a href=\"https://nds-vu.github.io/tutorials/cikm24/\" target=\"_blank\" rel=\"noopener noreferrer\">Data-Quality-Aware Graph Machine Learning</a> is accepted at CIKM2024!"
+  
+- date: 6/2024
+  headline: "Our preprint <a href=\"https://arxiv.org/abs/2406.11685\" target=\"_blank\" rel=\"noopener noreferrer\">Edge Classification on Graphs: New Directions in Topological Imbalance</a>  is now online!"
+
+- date: 6/2024
+  headline: "Tyler awarded NSF grant to support student travel for US-based students to attend KDD2024!"
+  
+- date: 6/2024
+  headline: "Our LGGM Text2Graph Generation <a href=\"https://lggm-lg.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">demo</a>  is now live, which is the first large graph generative model that supports generating graphs from textual descriptions!"
+  
+- date: 6/2024
+  headline: "Our preprint <a href=\"https://arxiv.org/abs/2406.05109\" target=\"_blank\" rel=\"noopener noreferrer\">Large Graph Generative Models</a>  is now online!"
+
+- date: 5/2024
+  headline: "Our preprint <a href=\"https://arxiv.org/abs/2405.17602\" target=\"_blank\" rel=\"noopener noreferrer\">Augmenting Textual Generation via Topology Aware Retrieval</a>  is now online!"
+
 - date: 5/2024
   headline: "Yuying starts her Summer'24 research internship at Visa Research!"
 
