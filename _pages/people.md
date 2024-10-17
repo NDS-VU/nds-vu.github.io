@@ -480,7 +480,8 @@ permalink: /people/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 0 %}
@@ -518,11 +519,10 @@ permalink: /people/
 
   </ul>
   
-    
   <div class="social-links"> 
-  {% if member.linkedin != 0 %} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %} {% if member.github != 0 %} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %}
+  {% if member.website != 0 %} <a href="{{ member.website }}"> <i class="fa fa-link"></i></a> {% endif %} {% if member.linkedin != 0 %} <a href="{{ member.linkedin }}"> <i class="fa fa-linkedin"></i></a> {% endif %} {% if member.github != 0 %} <a href="{{ member.github }}"> <i class="fa fa-github"></i></a> {% endif %} {% if member.twitter != 0 %} <a href="{{ member.twitter }}"> <i class="fa fa-twitter"></i></a> {% endif %} 
 </div>
-    
+  
   
 </div>
 
@@ -538,7 +538,8 @@ permalink: /people/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
+<br>
+<br>
 
 
 ## Former visitors, BSc/ MSc students
