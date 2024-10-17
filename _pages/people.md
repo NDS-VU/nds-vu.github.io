@@ -471,7 +471,7 @@ permalink: /people/
 
 ## Former Members
 {% assign number_printed = 0 %}
-{% for member in site.data.former %}
+{% for member in site.data.former_phd %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
