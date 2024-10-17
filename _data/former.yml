@@ -78,9 +78,9 @@
   photo: AaronBrookhouse.png
   info: Electrical Engineering BS
   email: 
-  number_educ: 2
+  number_educ: 1
   education1: Remote from Michigan State University
-  education2: Nominated for CRA Outstanding Undergraduate Research Award
+  education2: 
   education3: 
   education4: 
   education5: 
@@ -152,7 +152,7 @@
   
 - name: Ao Qu
   photo: NoPhoto.png
-  info: Computer Science, Economics, & Mathematics BS
+  info: Computer Science, Econ & Math BS
   email: ao.qu@vanderbilt.edu
   number_educ: 1
   education1: Fall 2021
