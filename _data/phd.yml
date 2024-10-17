@@ -1,20 +1,5 @@
 #education can be bullets such as prev positions or links
 
-- name: Yu Wang
-  photo: YuWang.jpg
-  info: Computer Science PhD
-  email: yu.wang.1@vanderbilt.edu
-  number_educ: 4
-  education1: Vanderbilt Russell G. Hamilton Graduate Scholars Award
-  education2: 2024 - VU Outstanding Doctoral Student Award
-  education3: 2023 - VU Graduate Leadership Anchor Award in Research 
-  education4: 2022 - VU C.F. Chen Best Paper Award in CS
-  education5:
-  website: https://yuwvandy.github.io/
-  linkedin: https://www.linkedin.com/in/wang-yu-63359a196/
-  twitter: https://twitter.com/YuWVandy
-  github: https://github.com/YuWVandy
-
 - name: Yuying Zhao
   photo: YuyingZhao.png
   info: Computer Science PhD
