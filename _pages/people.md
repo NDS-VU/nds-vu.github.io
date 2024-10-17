@@ -542,7 +542,7 @@ permalink: /people/
 <br>
 
 
-## Former visitors, BSc/ MSc students
+## Former intern, high school, BS and MS
 {% assign number_printed = 0 %}
 {% for member in site.data.former %}
 
