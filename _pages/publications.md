@@ -54,7 +54,7 @@ Xiaohan Kuang, Zhaoqian Su, Yunchao (Lance) Liu, Xiaobo Lin, Jesse Spencer-Smith
 bioRxiv preprint (2024). 
 
 [Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)\
-Zhehao Zhang, Ryan A. Rossi, Branislav Kveton, Yijia Shao, Diyi Yang, Hamed Zamani, Franck Dernoncourt, Joe Barrow, Tong Yu, Sungchu Kim, Ruiyi Zhang, Jiuxiang Gu, /Tyler Derr/, Hongjie Chen, Junda Wu, Xiang Chen, Zichao Wang, Subrata Mitra, Nedim Lipka, Nesreen Ahmed, and Yu Wang. \
+Zhehao Zhang, Ryan A. Rossi, Branislav Kveton, Yijia Shao, Diyi Yang, Hamed Zamani, Franck Dernoncourt, Joe Barrow, Tong Yu, Sungchu Kim, Ruiyi Zhang, Jiuxiang Gu, Tyler Derr, Hongjie Chen, Junda Wu, Xiang Chen, Zichao Wang, Subrata Mitra, Nedim Lipka, Nesreen Ahmed, and Yu Wang. \
 arXiv preprint arXiv:2411.00027 (2024).
 
 [A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions](https://arxiv.org/abs/2410.19214)\
