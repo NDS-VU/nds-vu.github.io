@@ -1,8 +1,62 @@
+- date: 1/2025
+  headline: "Our paper <a href=\"https://arxiv.org/abs/2406.05109\" target=\"_blank\" rel=\"noopener noreferrer\">Large Graph Generative Models</a> is accepted at ICLR2025!"
+
+- date: 1/2025
+  headline: "Our paper ``Demystifying the Power of Large Language Models in Graph Generations'' is accepted at NAACL2025 Findings!"
+
+- date: 12/2024
+  headline: "Honored to receive the NVIDIA Academic Grant Program Award for our project on Cyclic Peptide Design with NVIDIA's BioNeMo Platform!"
+
+- date: 12/2024
+  headline: "Bo is selected as AAAI2025 Student Scholar!"
+
+- date: 12/2024
+  headline: "Leyao received an Honorable Mention for the 2024-25 CRA Oustanding Undergraduate Researcher Award!"
+
+- date: 12/2024
+  headline: "Bo’s first paper in NDS lab <a href=\"https://arxiv.org/abs/2410.08985\" target=\"_blank\" rel=\"noopener noreferrer\">Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective</a> is accepted at AAAI2025!"
+
+- date: 11/2024
+  headline: "Lance successfully defended his PhD dissertation ''Geometric Deep Learning in Drug Discovery - congratulations, Dr. Liu!"
+
+- date: 11/2024
+  headline: "Our preprint <a href=\"https://arxiv.org/abs/2411.00027\" target=\"_blank\" rel=\"noopener noreferrer\">Personalization of Large Language Models: A Survey</a>  is now online!"
+
+- date: 11/2024
+  headline: "Our preprint <a href=\"https://www.biorxiv.org/content/10.1101/2024.11.18.624208v1\" target=\"_blank\" rel=\"noopener noreferrer\">SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI</a> is now online!"
+
+- date: 10/2024
+  headline: "Xueqi’s first paper in NDS lab <a href=\"https://arxiv.org/abs/2406.11685\" target=\"_blank\" rel=\"noopener noreferrer\">Edge Classification on Graphs: New Directions in Topological Imbalance</a> is accepted at WSDM2025!"
+
+- date: 11/2024
+  headline: "Allen is awarded the Graduate School Travel Grant to present WelQrate at NeurIPS2024!"
+
+- date: 11/2024
+  headline: "Our preprint <a href=\"https://arxiv.org/abs/2410.19214\" target=\"_blank\" rel=\"noopener noreferrer\">A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions</a> is now online!"
+
+- date: 11/2024
+  headline: "Our preprint <a href=\"https://arxiv.org/abs/2410.16882\" target=\"_blank\" rel=\"noopener noreferrer\">Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs</a> is now online!"
+
+- date: 10/2024
+  headline: "Tyler gave an invited keynote Demystifying the Node-Level Link Prediction Variability of Graph Neural Networks at the <a href=\"https://oars-workshop.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">Online and Adaptive Recommender Systems (OARS) Workshop</a> at CIKM2024!"
+
+- date: 10/2024
+  headline: "Tyler gave an invited talk Ethical AI in Recommender Systems: Fairness, Diversity, and Explainability at the <a href=\"https://kil-workshop.github.io/KG-STAR/\" target=\"_blank\" rel=\"noopener noreferrer\">Knowledge Graphs for Responsible AI (KG-STAR) Workshop</a> at CIKM2024!"
+
+- date: 10/2024
+  headline: "Tyler gave an invited talk Demystifying the Node-Level Link Prediction Variability of Graph Neural Networks in the <a href=\"https://math.vanderbilt.edu/ellingmn/gtcsem.html\" target=\"_blank\" rel=\"noopener noreferrer\">Vanderbilt Graph Theory and Combinatorics Seminar</a>!"
+
 - date: 9/2024
   headline: "Our paper <a href=\"https://www.welqrate.org/\" target=\"_blank\" rel=\"noopener noreferrer\">WelQrate: Defining the Gold Standard in Small Molecule Drug Discovery Benchmarking</a> is accepted at NeurIPS2024!"
+
+- date: 9/2024
+  headline: "Our paper <a href=\"https://arxiv.org/abs/2311.14934\" target=\"_blank\" rel=\"noopener noreferrer\">Robust Graph Neural Networks via Unbiased Aggregation</a> is accepted at NeurIPS2024!"
+
+- date: 9/2024
+  headline: "Our paper <a href=\"https://acoursey3.github.io/ft-aed/\" target=\"_blank\" rel=\"noopener noreferrer\">FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection</a> is accepted at NeurIPS2024!"
   
 - date: 9/2024
-  headline: "Anne’s first PhD paper ‘’FairNNV: The Neural Network Verification Tool For Certifying Fairness’’ is accepted at ACM Conference on AI in Finance (ICAIF2024)!"
+  headline: "Anne’s first paper in NDS lab <a href=\"https://dl.acm.org/doi/10.1145/3677052.3698677\" target=\"_blank\" rel=\"noopener noreferrer\">FairNNV: The Neural Network Verification Tool For Certifying Fairness</a> is accepted at ACM Conference on AI in Finance (ICAIF2024)!"
 
 - date: 8/2024
   headline: "Our paper <a href=\"https://arxiv.org/abs/2308.16375\" target=\"_blank\" rel=\"noopener noreferrer\">A Survey on Privacy in Graph Neural Networks: Attacks, Preservation, and Applications</a> is accepted at IEEE TKDE!"
@@ -21,6 +75,9 @@
   
 - date: 7/2024
   headline: "Our tutorial <a href=\"https://nds-vu.github.io/tutorials/cikm24/\" target=\"_blank\" rel=\"noopener noreferrer\">Data-Quality-Aware Graph Machine Learning</a> is accepted at CIKM2024!"
+
+- date: 6/2024
+  headline: "Yu successfully defended his PhD dissertation ''Data-quality-aware Graph Machine Learning - congratulations, Dr. Wang!''"
   
 - date: 6/2024
   headline: "Our preprint <a href=\"https://arxiv.org/abs/2406.11685\" target=\"_blank\" rel=\"noopener noreferrer\">Edge Classification on Graphs: New Directions in Topological Imbalance</a>  is now online!"
