@@ -1,5 +1,5 @@
 - name: Leyao (Laura) Wang
-  photo: laura.jpg
+  photo: LauraWang.jpg
   info: Computer Science + Math BS
   email: leyao.wang@vanderbilt.edu
   number_educ: 1
@@ -12,3 +12,33 @@
   linkedin: https://www.linkedin.com/in/leyao-wang-77ab45262/
   twitter: 0
   github: https://lwang-laura.github.io/leyaowang.github.io//
+
+- name: Haowei Fu
+  photo: NoPhoto.jpg
+  info: Computer Science + Math BS
+  email: haowei.fu@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/haowei-fu-8a3556279/
+  twitter: 0
+  github: 0
+
+- name: Xutao Mao
+  photo: XutaoMao.jpg
+  info: Computer Science + Math BS
+  email: xutao.mao@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/henry-mao-59257526b/
+  twitter: 0
+  github: 0
