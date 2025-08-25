@@ -1,18 +1,3 @@
-- name: Leyao (Laura) Wang
-  photo: LauraWang.jpg
-  info: Computer Science + Math BS
-  email: leyao.wang@vanderbilt.edu
-  number_educ: 1
-  education1: Nominated for CRA Outstanding Undergraduate Research Award
-  education2: 
-  education3: 
-  education4: 
-  education5: 
-  website: 0
-  linkedin: https://www.linkedin.com/in/leyao-wang-77ab45262/
-  twitter: 0
-  github: https://lwang-laura.github.io/leyaowang.github.io//
-
 - name: Haowei Fu
   photo: NoPhoto.png
   info: Computer Science + Math BS
@@ -40,5 +25,35 @@
   education5: 
   website: 0
   linkedin: https://www.linkedin.com/in/henry-mao-59257526b/
+  twitter: 0
+  github: 0
+
+- name: Alejandro Castillo
+  photo: AlejandroCastillo.png
+  info: Computer Science BS
+  email: alejandro.castillo.rodriguez@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/alejandro-castillo-rodriguez-799523319
+  twitter: 0
+  github: 0
+
+- name: Duo (Dora) Bai
+  photo: DoraBai.png
+  info: CS + Mol Cell Bio BS
+  email: duo.bai@vanderbilt.edu
+  number_educ: 0
+  education1: 
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/dora-bai-3b15672a3/
   twitter: 0
   github: 0
