@@ -6,7 +6,7 @@
   education1: "2025 - ACM SIGKDD Dissertation Award Honorable Mention"
   education2: "2024 - VU Outstanding Doctoral Student Award"
   education3: "2023 - VU Graduate Leadership Anchor Award in Research"
-  education4: "2022 - VU C.F. Chen Best Paper Award in CS"
+  education4: "Dissertation: Data Quality-Aware Graph Machine Learning"
   education5: "Next position: Assistant Professor of Computer Science at University of Oregon"
   website: "https://yuwang0103.github.io/"
   linkedin: "https://www.linkedin.com/in/wang-yu-63359a196/"
@@ -20,8 +20,8 @@
   number_educ: 5
   education1: Co-advised with Meiler Lab @ VU
   education2: 2024 - 1st Place VU's AI Showcase
-  education3: 2023 - Vanderbilt's 3MT Finalist
-  education4: 2022 - Awarded Nvidia Academic Hardware Grant
+  education3: 2022 - Awarded Nvidia Academic Hardware Grant
+  education4: "Disseration: Geometric Deep Learning in Drug Discovery"
   education5: "Next position: Computational Scientist at the Broad Institute of MIT and Harvard"
   website: https://yunchaoliu.github.io/
   linkedin: https://www.linkedin.com/in/yunchaoliu/
@@ -32,11 +32,11 @@
   photo: YuyingZhao.png
   info: "CS PhD, '25"
   email: yuying.zhao@vanderbilt.edu
-  number_educ: 3
+  number_educ: 4
   education1: Vanderbilt IBM Fellowship Award
   education2: 2023 - VU C.F. Chen Best Paper Runner-up Award in CS
-  education3: "Next position: AI Research Scientist at Accenture's Center for Advanced AI"
-  education4: 
+  education3: "Dissertation: Learning Beyond Utility: Fairness, Explainability, and Diversity"
+  education4: "Next position: AI Research Scientist at Accenture's Center for Advanced AI"
   education5:
   website: https://yuyingzhao.github.io/
   linkedin: https://www.linkedin.com/in/yy-zhao/
