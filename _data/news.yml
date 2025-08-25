@@ -1,3 +1,67 @@
+- date: 8/2025
+  headline: "Tyler received a Young Investigator Best Paper Award (3rd) at KDD’25 Health Day!"
+- date: 8/2025
+  headline: "Yu received ACM SIGKDD Dissertation Award Honorable Mention!"
+- date: 8/2025
+  headline: "Tyler will serve as Editorial Board Member for <a href=\"https://dl.acm.org/journal/ailet\">ACM AI Letters</a>, a newly launched rapid-publication journal for impactful AI research!"
+- date: 8/2025
+  headline: "Preprint <a href=\"https://arxiv.org/abs/2508.01128\">Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation</a> is now online!"
+- date: 8/2025
+  headline: "Honored to serve as Senator in <a href=\"https://www.vanderbilt.edu/faculty-senate/find-your-senator/\">Vanderbilt’s Faculty Senate</a> as a School of Engineering representative!"
+
+
+- date: 7/2025
+  headline: "Awarded NSF grant for the project <a href=\"https://www.nsf.gov/awardsearch/showAward?AWD_ID=2524380\">Towards Well-Rounded Graph Retrieval for Retrieval-Augmented Generation</a>!"
+- date: 7/2025
+  headline: "Our paper “Explanation Difference: Bridging Procedural and Distributional Fairness” is accepted at AAAI/ACM AIES!"
+
+
+- date: 6/2025
+  headline: "Tyler gave an invited Blue Sky Spotlight talk at KDD’25 Health Day: “Referral Required: When AI Blocks Access to Human Doctors”!"
+- date: 6/2025
+  headline: "Tyer was recognized as a 2024 Top Scholar by ScholarGPS (top 0.5% worldwide overall; top 100 in Data Mining)!"
+- date: 6/2025
+  headline: "Our paper “Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks” is accepted in IEEE Transactions on Network Science and Engineering (TNSE)!"
+
+
+- date: 5/2025
+  headline: "Our paper <a href=\"https://arxiv.org/abs/2411.00027\">Personalization of Large Language Models: A Survey</a> is accepted in Transactions on Machine Learning Research (TMLR)!"
+- date: 5/2025
+  headline: "Our paper <a href=\"https://arxiv.org/abs/2410.19214\">BTS: A Comprehensive Benchmark for Tie Strength Prediction</a> is accepted at KDD’25!"
+- date: 5/2025
+  headline: "Tyler was selected as an inaugural Vanderbilt CARE Fellow to help enhance student well-being and a supportive campus environment!"
+- date: 5/2025
+  headline: "Preprint <a href=\"https://arxiv.org/abs/2505.01698\">Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs</a> is now online!"
+- date: 5/2025
+  headline: "Preprint <a href=\"https://arxiv.org/abs/2505.01695\">SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation</a> is now online!"
+
+
+- date: 4/2025
+  headline: "Our paper <a href=\"https://pubs.acs.org/doi/10.1021/acs.jcim.5c00822\">Advancements in Ligand-Based Virtual Screening through the Synergistic Integration of Graph Neural Networks and Expert-Crafted Descriptors</a> is accepted in JCIM!"
+- date: 4/2025
+  headline: "Tyler was honored as the sole recipient of Vanderbilt’s 2025 Career Catalyst Impact Award!"
+- date: 4/2025
+  headline: "Awarded NSF grant to support US-based student travel to SDM’25!"
+
+- date: 3/2025
+  headline: "MS student <a href=\"https://xwang112358.github.io/\">Xin (Allen) Wang</a> successfully defended “Data-Centric AI for Small Molecule Drug Discovery” — next: PhD in Computational Biology & Biomedical Informatics at Yale University!"
+- date: 3/2025
+  headline: "MS student <a href=\"https://xueqic.github.io/\">Xueqi Cheng</a> successfully defended “Edge-Centric Network Analytics” — next: PhD in Computer Science at Florida State University!"
+- date: 3/2025
+  headline: "MS student <a href=\"https://www.linkedin.com/in/qinwen-ge/\">Qinwen Ge</a> successfully defended “Enhanced Brain Graph Construction in Neuroimaging: A Data-Centric AI Approach” — next: PhD in NDS Lab at Vanderbilt University!"
+- date: 3/2025
+  headline: "PhD student <a href=\"https://yuyingzhao.github.io/\">Yuying Zhao</a> successfully defended “Learning Beyond Utility: Fairness, Explainability, and Diversity” — next: AI Research Scientist at Accenture!"
+- date: 3/2025
+  headline: "Our work <a href=\"https://www.biorxiv.org/content/10.1101/2024.11.18.624208v1\">SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI</a> was accepted and presented at NVIDIA GTC!"
+- date: 3/2025
+  headline: "Our demo “Real-Time Freeway Traffic Anomalous Event Detection System via Radar Detector Sensors” is accepted at ACM/IEEE ICCPS’25! <a href=\"https://dl.acm.org/doi/10.1145/3716550.3725156\">(paper)</a>"
+
+- date: 2/2025
+  headline: "Our workshop <a href=\"https://mlgraphworkshop.github.io/\">Machine Learning on Graphs in the Era of Artificial General Intelligence</a> is accepted at KDD’25!"
+
+- date: 1/2025
+  headline: "Our paper <a href=\"https://aikta-arya.github.io/SigNET-/\">Signed Network Dataset Repository: Extracting Signed Relations from Social Networks</a> is accepted at IEEE ICC’25!"
+
 - date: 1/2025
   headline: "Our paper <a href=\"https://arxiv.org/abs/2406.05109\" target=\"_blank\" rel=\"noopener noreferrer\">Large Graph Generative Models</a> is accepted at ICLR2025!"
 
