@@ -20,8 +20,8 @@
   number_educ: 4
   education1: Vanderbilt IBM Fellowship Award
   education2: Vanderbilt Engineering Graduate Fellowship Award
-  education3: Thesis: Edge-Centric Network Analytics
-  education4: Next Position: PhD Student at Florida State University
+  education3: "Thesis: Edge-Centric Network Analytics"
+  education4: "Next Position: PhD Student at Florida State University"
   education5:
   website: https://xueqic.github.io/
   linkedin: https://www.linkedin.com/in/xqc/
@@ -34,8 +34,8 @@
   email: xin.wang.1@vanderbilt.edu
   number_educ: 3
   education1: Vanderbilt Engineering Graduate Fellowship Award
-  education2: Thesis: Data-Centric AI for Small Molecule Drug Discovery
-  education3: Next Position: PhD Student at Yale University
+  education2: "Thesis: Data-Centric AI for Small Molecule Drug Discovery"
+  education3: "Next Position: PhD Student at Yale University"
   education4: 
   education5: 
   website: https://github.com/xwang38438
@@ -49,8 +49,8 @@
   email: qinwen.ge@vanderbilt.edu
   number_educ: 3
   education1: Vanderbilt Engineering Graduate Fellowship Award
-  education2: Thesis: Enhanced Brain Graph Construction in Neuroimaging: A Data-Centric AI Approach
-  education3: Next Position: PhD in NDS Lab at Vanderbilt University
+  education2: "Thesis: Enhanced Brain Graph Construction in Neuroimaging: A Data-Centric AI Approach"
+  education3: "Next Position: PhD in NDS Lab at Vanderbilt University"
   education4: 
   education5: 
   website: 0
