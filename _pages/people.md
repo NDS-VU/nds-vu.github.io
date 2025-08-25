@@ -49,14 +49,12 @@ permalink: /people/
   {% endif %}
   </ul>
   
-  <div class="social-links">
-    <p>
+<div class="social-links" markdown="0">
       {% if member.website != 0 %}<a href="{{ member.website }}"><i class="fa fa-link"></i></a>{% endif %}
       {% if member.scholar != 0 %}<a href="{{ member.scholar }}"><i class="fa fa-scholar"></i></a>{% endif %}
       {% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
       {% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}
       {% if member.twitter != 0 %}<a href="{{ member.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}
-    </p>
   </div>
 </div>
 
@@ -91,14 +89,7 @@ permalink: /people/
   {% if member.number_educ == 5 %}<li>{{ member.education1 }}</li><li>{{ member.education2 }}</li><li>{{ member.education3 }}</li><li>{{ member.education4 }}</li><li>{{ member.education5 }}</li>{% endif %}
   </ul>
 
-  <div class="social-links">
-    <p>
-      {% if member.website != 0 %}<a href="{{ member.website }}"><i class="fa fa-link"></i></a>{% endif %}
-      {% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
-      {% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}
-      {% if member.twitter != 0 %}<a href="{{ member.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}
-    </p>
-  </div>
+<div class="social-links" markdown="0">{% if member.website != 0 %}<a href="{{ member.website }}"><i class="fa fa-link"></i></a>{% endif %}{% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}{% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}{% if member.twitter != 0 %}<a href="{{ member.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -125,13 +116,8 @@ permalink: /people/
   {% if member.number_educ == 4 %}<li>{{ member.education1 }}</li><li>{{ member.education2 }}</li><li>{{ member.education3 }}</li><li>{{ member.education4 }}</li>{% endif %}
   </ul>
 
-  <div class="social-links">
-    <p>
-      {% if member.website != 0 %}<a href="{{ member.website }}"><i class="fa fa-link"></i></a>{% endif %}
-      {% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
-      {% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}
-    </p>
-  </div>
+
+<div class="social-links" markdown="0">{% if member.website != 0 %}<a href="{{ member.website }}"><i class="fa fa-link"></i></a>{% endif %}{% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}{% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}{% if member.twitter != 0 %}<a href="{{ member.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -159,12 +145,7 @@ permalink: /people/
   {% if member.number_educ == 5 %}<li>{{ member.education1 }}</li><li>{{ member.education2 }}</li><li>{{ member.education3 }}</li><li>{{ member.education4 }}</li><li>{{ member.education5 }}</li>{% endif %}
   </ul>
 
-  <div class="social-links">
-    <p>
-      {% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
-      {% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}
-    </p>
-  </div>
+<div class="social-links" markdown="0">{% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}{% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -192,12 +173,7 @@ permalink: /people/
   {% if member.number_educ == 5 %}<li>{{ member.education1 }}</li><li>{{ member.education2 }}</li><li>{{ member.education3 }}</li><li>{{ member.education4 }}</li><li>{{ member.education5 }}</li>{% endif %}
   </ul>
 
-  <div class="social-links">
-    <p>
-      {% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
-      {% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}
-    </p>
-  </div>
+<div class="social-links" markdown="0">{% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}{% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -225,12 +201,7 @@ permalink: /people/
   {% if member.number_educ == 5 %}<li>{{ member.education1 }}</li><li>{{ member.education2 }}</li><li>{{ member.education3 }}</li><li>{{ member.education4 }}</li><li>{{ member.education5 }}</li>{% endif %}
   </ul>
 
-  <div class="social-links">
-    <p>
-      {% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
-      {% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}
-    </p>
-  </div>
+<div class="social-links" markdown="0">{% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}{% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -258,14 +229,7 @@ permalink: /people/
   {% if member.number_educ == 5 %}<li>{{ member.education1 }}</li><li>{{ member.education2 }}</li><li>{{ member.education3 }}</li><li>{{ member.education4 }}</li><li>{{ member.education5 }}</li>{% endif %}
   </ul>
 
-  <div class="social-links">
-    <p>
-      {% if member.website != 0 %}<a href="{{ member.website }}"><i class="fa fa-link"></i></a>{% endif %}
-      {% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
-      {% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}
-      {% if member.twitter != 0 %}<a href="{{ member.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}
-    </p>
-  </div>
+<div class="social-links" markdown="0">{% if member.website != 0 %}<a href="{{ member.website }}"><i class="fa fa-link"></i></a>{% endif %}{% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}{% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}{% if member.twitter != 0 %}<a href="{{ member.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -293,14 +257,7 @@ permalink: /people/
   {% if member.number_educ == 5 %}<li>{{ member.education1 }}</li><li>{{ member.education2 }}</li><li>{{ member.education3 }}</li><li>{{ member.education4 }}</li><li>{{ member.education5 }}</li>{% endif %}
   </ul>
 
-  <div class="social-links">
-    <p>
-      {% if member.website != 0 %}<a href="{{ member.website }}"><i class="fa fa-link"></i></a>{% endif %}
-      {% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
-      {% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}
-      {% if member.twitter != 0 %}<a href="{{ member.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}
-    </p>
-  </div>
+<div class="social-links" markdown="0">{% if member.website != 0 %}<a href="{{ member.website }}"><i class="fa fa-link"></i></a>{% endif %}{% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}{% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}{% if member.twitter != 0 %}<a href="{{ member.twitter }}"><i class="fa fa-twitter"></i></a>{% endif %}</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -328,12 +285,7 @@ permalink: /people/
   {% if member.number_educ == 5 %}<li>{{ member.education1 }}</li><li>{{ member.education2 }}</li><li>{{ member.education3 }}</li><li>{{ member.education4 }}</li><li>{{ member.education5 }}</li>{% endif %}
   </ul>
 
-  <div class="social-links">
-    <p>
-      {% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}
-      {% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}
-    </p>
-  </div>
+<div class="social-links" markdown="0">{% if member.linkedin != 0 %}<a href="{{ member.linkedin }}"><i class="fa fa-linkedin"></i></a>{% endif %}{% if member.github != 0 %}<a href="{{ member.github }}"><i class="fa fa-github"></i></a>{% endif %}</div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
