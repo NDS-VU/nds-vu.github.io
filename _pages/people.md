@@ -623,7 +623,7 @@ permalink: /people/
 
 
 
-## Former intern, high school, BS and MS
+## Former BS, Intern, High School
 {% assign number_printed = 0 %}
 {% for member in site.data.former %}
 
