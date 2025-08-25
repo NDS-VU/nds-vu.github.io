@@ -1,35 +1,5 @@
 #education can be bullets such as prev positions or links
 
-- name: Yuying Zhao
-  photo: YuyingZhao.png
-  info: Computer Science PhD
-  email: yuying.zhao@vanderbilt.edu
-  number_educ: 2
-  education1: Vanderbilt IBM Fellowship Award
-  education2: 2023 - VU C.F. Chen Best Paper Runner-up Award in CS
-  education3: 
-  education4: 
-  education5:
-  website: https://yuyingzhao.github.io/
-  linkedin: https://www.linkedin.com/in/yy-zhao/
-  twitter: 0
-  github: https://github.com/YuyingZhao
-  
-- name: Yunchao (Lance) Liu
-  photo: YunchaoLiu.png
-  info: Computer Science PhD
-  email: yunchao.liu@vanderbilt.edu
-  number_educ: 4
-  education1: Co-advised with Meiler Lab @ VU
-  education2: 2024 - 1st Place VU's AI Showcase
-  education3: 2023 - Vanderbilt's 3MT Finalist
-  education4: 2022 - Awarded Nvidia Academic Hardware Grant
-  education5:
-  website: https://yunchaoliu.github.io/
-  linkedin: https://www.linkedin.com/in/yunchaoliu/
-  twitter: https://twitter.com/YunchaoLanceLiu
-  github: https://github.com/YunchaoLiu
-
 - name: Anne Tumlin
   photo: AnneTumlin.jpg
   info: Computer Science PhD
@@ -59,3 +29,35 @@
   linkedin: https://www.linkedin.com/in/bo-n-a54213123/
   twitter: 0
   github: https://github.com/arstanley
+
+- name: Qinwen Ge
+  photo: QinwenGe.jpg
+  info: Computer Science PhD
+  email: qinwen.ge@vanderbilt.edu
+  number_educ: 1
+  education1: Vanderbilt Engineering Graduate Fellowship Award
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: 0
+  linkedin: https://www.linkedin.com/in/qinwen-ge/
+  twitter: 0
+  github: 0
+
+- name: Ngoc Ngo-Quang Tran
+  photo: NgocTran.jpg
+  info: Computer Science PhD
+  email: ngoc.n.tran@vanderbilt.edu
+  number_educ: 1
+  education1: Co-advised with Dr. Xenofon Koutsoukos @ VU
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+  website: https://ngoc.io/
+  linkedin: https://www.linkedin.com/in/ngoctnq/
+  twitter: 0
+  github: https://github.com/ngoctnq
+
+  
