@@ -1,3 +1,38 @@
+
+
+
+- date: 1/2026
+  headline: "Our paper <a href=\"https://tylersnetwork.github.io/papers/LLM-based_User_Simulated_Data_Generation_Survey.pdf\">Large Language Models for Conversational User Simulation: A Comprehensive Survey</a> is accepted at EACL'26!"
+- date: 1/2026
+  headline: "Our paper <a href=\"https://arxiv.org/abs/2512.03100\">Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks</a> is accepted at EACL(Findings)'26!"
+
+- date: 11/2025
+  headline: "Our paper <a href=\"https://arxiv.org/abs/2410.16882\">SAVE-TAG: Semantic-Aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs</a> is accepted at KDD'26!"
+- date: 11/2025
+  headline: "Tyler receives Vanderbilt's Provost Immersion Grant for Faculty!"
+- date: 11/2025
+  headline: "Our paper “Graph2Video: Leveraging Video Models to Model Dynamic Graph Evolution“ is accepted at AAAI'26!"
+- date: 11/2025
+  headline: "Our paper <a href=\"https://www.nature.com/articles/s42004-025-01789-4\">SuperWater as a Generative AI Framework to Predict Water Molecule Positions on Protein Structures</a> is accepted at Communications Chemistry!"
+
+- date: 11/2025
+  headline: "Preprint <a href=\"https://www.arxiv.org/abs/2510.16306\">Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening</a> is now online!"
+  
+- date: 10/2025
+  headline: "Tyler is invited to serve as a member of the <a href=\"https://www.learning4graphs.org/\">IEEE Task Force on Learning for Graphs</a>!"
+- date: 10/2025
+  headline: "Tyler is recognized on the 2025 Stanford/Elsevier <a href=\"https://topscinet.com/scientist_profile/Derr,%20Tyler/2017/?stype=single_year\">list</a> of the World's Top 2% Scientists!"
+
+- date: 8/2025
+  headline: "Preprint <a href=\"https://arxiv.org/abs/2508.06734\">Mitigating Distribution Shift in Graph-Based Android Malware Classification via Function Metadata and LLM Embeddings</a> is now online!"
+- date: 8/2025
+  headline: "Preprint <a href=\"https://arxiv.org/abs/2508.06734\">Mitigating Distribution Shift in Graph-Based Android Malware Classification via Function Metadata and LLM Embeddings</a> is now online!"
+- date: 8/2025
+  headline: "Preprint <a href=\"https://arxiv.org/abs/2508.12533\">Defining and Benchmarking a Data-Centric Design Space for Brain Graph Construction</a> is now online!"
+- date: 8/2025
+  headline: "Preprint <a href=\"https://arxiv.org/abs/2508.12466\">Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision Mapping</a> is now online!"
+
+  
 - date: 8/2025
   headline: "Tyler received a Young Investigator Best Paper Award (3rd) at KDD’25 Health Day!"
 - date: 8/2025
@@ -8,6 +43,10 @@
   headline: "Preprint <a href=\"https://arxiv.org/abs/2508.01128\">Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation</a> is now online!"
 - date: 8/2025
   headline: "Honored to serve as Senator in <a href=\"https://www.vanderbilt.edu/faculty-senate/find-your-senator/\">Vanderbilt’s Faculty Senate</a> as a School of Engineering representative!"
+- date: 8/2025
+  headline: "Welcome new PhD member! <br /> <span style=\"color: #808080\"> Noah Dahle joins NDS Lab and co-advised with Dr. Xenofon Koutsoukos</span>"
+- date: 8/2025
+  headline: "Welcome new PhD member! <br /> <span style=\"color: #808080\"> Ngoc N. Tran joins NDS Lab and co-advised with Dr. Xenofon Koutsoukos</span>"
 
 
 - date: 7/2025
