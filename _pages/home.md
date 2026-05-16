@@ -64,12 +64,13 @@ We are recruiting PhD students to work with us in the NDS Lab on topics in our g
 <br>
 <div class="center">
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/vu.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/afrl.jpg" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/thd.jpg" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/nvidia.png" style="width: 100px">
-  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/vu.png" style="width: 85px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/funding/nsf.png" style="width: 85px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/afrl.jpg" style="width: 85px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/thd.jpg" style="width: 85px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/nvidia.png" style="width: 85px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/snap.png" style="width: 85px">
+  <img src = "{{ site.url }}{{ site.baseurl }}/images/funding/googlecloud.png" style="width: 85px">
 </figure>
 </div>
 
