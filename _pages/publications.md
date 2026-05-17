@@ -49,42 +49,144 @@ You may also see our work on [Google Scholar](https://scholar.google.com/citatio
 
 ### Recent Preprints and Submissions
 
-[SuperWater: Predicting Water Molecule Positions on Protein Structures by Generative AI](https://www.biorxiv.org/content/10.1101/2024.11.18.624208v1)\
-Xiaohan Kuang, Zhaoqian Su, Yunchao (Lance) Liu, Xiaobo Lin, Jesse Spencer-Smith, Tyler Derr, Yinghao Wu, and Jens Meiler. 
-bioRxiv preprint (2024). 
 
-[Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)\
-Zhehao Zhang, Ryan A. Rossi, Branislav Kveton, Yijia Shao, Diyi Yang, Hamed Zamani, Franck Dernoncourt, Joe Barrow, Tong Yu, Sungchu Kim, Ruiyi Zhang, Jiuxiang Gu, Tyler Derr, Hongjie Chen, Junda Wu, Xiang Chen, Zichao Wang, Subrata Mitra, Nedim Lipka, Nesreen Ahmed, and Yu Wang. \
-arXiv preprint arXiv:2411.00027 (2024).
 
-[A Comprehensive Analysis of Social Tie Strength: Definitions, Prediction Methods, and Future Directions](https://arxiv.org/abs/2410.19214)\
-Xueqi Cheng, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, and Tyler Derr. \
-arXiv preprint arXiv:2410.19214 (2024).
+[Sparse Personalized Text Generation with Multi-Trajectory Reasoning](https://arxiv.org/abs/2604.24996)\
+Bo Ni, Haowei Fu, Qinwen Ge, Franck Dernoncourt, Samyadeep Basu, Nedim Lipka, Seunghyun Yoon, Yu Wang, Nesreen K Ahmed, Subhojyoti Mukherjee, Puneet Mathur, Ryan A Rossi, and Tyler Derr. \
+arXiv preprint arXiv:2604.24996 (2026).
 
-[Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)\
-Leyao Wang\*, Yu Wang\*, Bo Ni\*, Yuying Zhao, and Tyler Derr. \
-arXiv preprint arXiv:2410.16882 (2024).
+[Assessing Capabilities of Large Language Models in Social Media Analytics: A Multi-task Quest](https://arxiv.org/abs/2604.18955v1)\
+Ramtin Davoudi, Kartik Thakkar, Nazanin Donyapour, Tyler Derr, and Hamid Karimi. \
+arXiv preprint arXiv:2604.18955 (2026).
 
-[A Survey of Mamba](https://arxiv.org/abs/2408.01129)\
-Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, Tyler Derr, Hui Liu, Xin Xu, and Qing Li. \
-arXiv preprint arXiv:2408.01129 (2024).
+[Figure Captioning with Large Generative Models: A Survey](https://hal.science/hal-05555227v1/file/Figure_Captioning_and_Reasoning_Survey__ARR_Jan_6__without_SoC.pdf)\
+Chan-Wei Hu, Reuben Luera, Franck Dernoncourt, Huanjiang Liu, Seon Gyeom Kim, Ashish Singh, Puneet Mathur, Bo Ni, Samyadeep Basu, Hongjie Chen, Tak Yeon Lee, Edward Hsu, Seunghyun Yoon, Nesreen K. Ahmed, Li Li, Tong Yu, Sungchul Kim, Branislav Kveton, Subhojyoti Mukherjee, Jiuxiang Gu, Jihyung Kil, Zhehao Zhang, Junda Wu, Ashutosh Singh, Zichao Wang, Ruiyi Zhang, Yue Zhao, Nedim Lipka, Thien Huu Nguyen, Tyler Derr, Zhengzhong Tu, Yu Wang, Ting-Hao Kenneth Huang, and Ryan A. Rossi. \
+Preprint.
 
-[A Survey of Graph Unlearning](https://arxiv.org/abs/2310.02164)\
-Anwar Said, Yuying Zhao, Tyler Derr, Mudassir Shabbir, Waseem Abbas, and Xenofon Koutsoukos. \
+[Reasoning-Based Personalized Generation for Users with Sparse Data](https://arxiv.org/abs/2602.21219)\
+Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, Leyao Wang, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, and Tyler Derr. \
+arXiv preprint arXiv:2602.21219 (2026).
+
+[Scaffold-Aware Generative Augmentation and Reranking for Enhanced Virtual Screening](https://www.arxiv.org/abs/2510.16306)\
+Xin Wang, Yu Wang, Yunchao(Lance) Liu, Jens Meiler, and Tyler Derr. \
+arXiv preprint arXiv:2510.16306 (2025).
+
+[Mitigating Distribution Shift in Graph-Based Android Malware Classification via Function Metadata and LLM Embeddings](https://arxiv.org/abs/2508.06734)\
+Ngoc N. Tran, Anwar Said, Waseem Abbas, Tyler Derr, and Xenofon Koutsoukos. \
+arXiv preprint arXiv:2508.06734 (2025).
+
+[Defining and Benchmarking a Data-Centric Design Space for Brain Graph Construction](https://arxiv.org/abs/2508.12533)\
+Qinwen Ge, Roza G. Bayrak, Anwar Said, Catie Chang, Xenofon Koutsoukos, and Tyler Derr. \
+arXiv preprint arXiv:2508.12533 (2025). \
+[Code repo](https://github.com/GeQinwen/DataCentricBrainGraphs)
+
+[Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision Mapping](https://arxiv.org/abs/2508.12466)\
+Xuhui Zhan and Tyler Derr. \
+arXiv preprint arXiv:2508.12466 (2025). \
+[Code repo](https://github.com/xuhuizhan5/Inverse-LLaVA)
+
+[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)\
+Leyao Wang\*, Xutao Mao\*, Xuhui Zhang, Yuying Zhao, Bo Ni, Ryan Rossi, Nesreen Ahmed, and Tyler Derr. \
+arXiv preprint arXiv:2508.01128 (2025).
+
+[SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation](https://arxiv.org/abs/2505.01695)\
+Yuying Zhao, Xiaodong Yang, Huiyuan Chen, Xiran Fan, Yu Wang, Yiwei Cai, and Tyler Derr. \
+arXiv preprint arXiv:2505.01695 (2025).
+
+[Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs](https://arxiv.org/abs/2505.01698)\
+Yuying Zhao, Yu Wang, Xueqi Cheng, Anne Marie Tumlin, Yunchao Liu, Damin Xia, Meng Jiang, and Tyler Derr. \
+arXiv preprint arXiv:2505.01698 (2025).
+
+[Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)\
+Bo Ni, Zheyuan Liu, Leyao Wang, Yongjia Lei, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang, Meng Jiang, and Tyler Derr. \
+arXiv preprint arXiv:2502.06872 (2025). \
+[Code repo](https://github.com/Arstanley/RAG-Trust-Benchmark)
+
+[Graph Unlearning: A Review](https://arxiv.org/abs/2310.02164)\
+Anwar Said, Ngoc N. Tran, Yuying Zhao, Tyler Derr, Mudassir Shabbir, Waseem Abbas, and Xenofon Koutsoukos. \
 arXiv preprint arXiv:2310.02164 (2023).
-
-[Integrating Expert Knowledge with Deep Learning Improves QSAR Models for CADD Modeling](https://www.biorxiv.org/content/10.1101/2023.04.17.537185v1.abstract)\
-Yunchao "Lance" Liu, Rocco Moretti, Yu Wang, Bobby Bodenheimer, Tyler Derr, Jens Meiler. \
-bioRxiv preprint (2023). 
 
 [Distance-wise Prototypical Graph Neural Network for Imbalanced Node Classification](https://yuwvandy.github.io/paper/dpgnn.pdf)\
 Yu Wang, Charu Aggarwal, and Tyler Derr\
-arXiv preprint arXiv:2110.12035 (2021).
+arXiv preprint arXiv:2110.12035 (2021). \
+[Code repo](https://github.com/YuWVandy/DPGNN)
+
+
+
+### Publications in 2026
+
+Risk-Controlled Event-Driven Cascading Updates for Knowledge Graph Consistency Restoration.\
+Bo Ni, Qinwen Ge, Haowei Fu, Ryan A. Rossi, Xiaorui Liu, Jiejun Xu, and Tyler Derr. \
+In Findings of the Association for Computational Linguistics: ACL, San Diego, CA, USA, July 2-7, 2026.
+
+[A Survey on Signed Network Reconstruction Modeling and its Applications](https://dl.acm.org/doi/abs/10.1145/3803550)\
+Aikta Arya, Pradumn Kumar Pandey, Niloy Ganguly, and Tyler Derr. \
+ACM Transactions on Knowledge Discovery from Data (TKDD), 2026.
+
+[A Survey of Mamba](https://arxiv.org/pdf/2408.01129)\
+Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, Tyler Derr, Hui Liu, Xin Xu, and Qing Li. \
+ACM Transactions on Intelligent Systems and Technology (TIST), 2026.
+
+Referral Required: When AI Blocks Access to Human Doctors\
+Tyler Derr. \
+ACM AI Letters (AILET), 2026.
+
+[Large Language Models for Conversational User Simulation: A Comprehensive Survey](papers/LLM-based_User_Simulated_Data_Generation_Survey.pdf)\
+Bo Ni, Leyao Wang, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, and Ryan A. Rossi. \
+In Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL), Rabat, Morocco, March 24-29, 2026. \
+[Survey repo](https://github.com/Arstanley/Awesome-LLM-Conversation-Simulation)
+
+[Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks](https://arxiv.org/abs/2512.03100)\
+Haowei Fu, Bo Ni, Han Xu, Kunpeng Liu, Dan Lin, and Tyler Derr. \
+In Findings of the Association for Computational Linguistics: EACL, Rabat, Morocco, March 24-29, 2026. \
+[Code repo](https://github.com/RageFu2004/Ensemble-Privacy-Defense)
+
+[SAVE-TAG: Semantic-Aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)\
+Leyao Wang, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, and Tyler Derr. \
+In Proceedings of the 32nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Jeju, Korea, August 9 - 13, 2026. \
+[Code repo](https://github.com/LWang-Laura/SaVe-TAG)
+
+[Graph2Video: Leveraging Video Models to Model Dyanmic Graph Evolution](https://arxiv.org/abs/2603.13360)\
+Hua Liu, Yanbin Wei, Fei Xing, Tyler Derr, Haoyu Han, and Yu Zhang. \
+In Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI), Singapore, January 20 - 27, 2026.
 
 
 ### Publications in 2025
 
-[Demystifying the Power of Large Language Models in Graph Generation](https://nds-vu.github.io/publications/)\
+[SuperWater as a Generative AI Framework to Predict Water Molecule Positions on Protein Structures](https://www.nature.com/articles/s42004-025-01789-4)\
+Zhaoqian Su, Xiaohan Kuang, Yunchao Liu, Xiaobo Lin, Jesse Spencer-Smith, Tyler Derr, Yinghao Wu, Jens Meiler, Yongbo Hu, and Hans Bitter. \
+Communications Chemistry, 2025.
+
+[Explanation Difference: Bridging Procedural and Distributional Fairness](https://ojs.aaai.org/index.php/AIES/article/view/36612)\
+Joe Germino, Yuying Zhao, Tyler Derr, Nuno Moniz, and Nitesh V. Chawla. \
+AAAI/ACM Conference on AI, Ethics, and Society (AIES), Madrid, Spain, October 20-22, 2025.
+
+[Edges Matter: An Analysis of Graph Time-Series Representations for Temporal Networks](https://ieeexplore.ieee.org/document/11029199/)\
+Hongjie Chen, Ryan A. Rossi, Nesreen K. Ahmed, Namyong Park, Yu Wang, Tyler Derr, and Hoda Eldardiry. \
+IEEE Transactions on Network Science and Engineering (TNSE), 2025.
+
+[Personalization of Large Language Models: A Survey](https://arxiv.org/abs/2411.00027)\
+Zhehao Zhang, Ryan A. Rossi, Branislav Kveton, Yijia Shao, Diyi Yang, Hamed Zamani, Franck Dernoncourt, Joe Barrow, Tong Yu, Sungchu Kim, Ruiyi Zhang, Jiuxiang Gu, Tyler Derr, Hongjie Chen, Junda Wu, Xiang Chen, Zichao Wang, Subrata Mitra, Nedim Lipka, Nesreen Ahmed, and Yu Wang. \
+Transactions on Machine Learning Research (TMLR), 2025.
+
+[BTS: A Comprehensive Benchmark for Tie Strength Prediction](https://arxiv.org/abs/2410.19214)\
+Xueqi Cheng, Catherine Yang, Yuying Zhao, Yu Wang, Hamid Karimi, and Tyler Derr. \
+In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), Toronto, ON, Canada, August 3-7, 2025. \
+[Code repo](https://github.com/XueqiC/Awesome-Tie-Strength-Prediction)
+
+[Advancements in Ligand-Based Virtual Screening through the Synergistic Integration of Graph Neural Networks and Expert-Crafted Descriptors.](https://pubs.acs.org/doi/10.1021/acs.jcim.5c00822)\
+Yunchao ‘‘Lance’’ Liu, Rocco Moretti, Yu Wang, Ha Dong, Bailu Yan, Bobby Bodenheimer, Tyler Derr, and Jens Meiler. \
+Journal of Chemical Information and Modeling (JCIM), 2025.
+
+[Real-Time Freeway Traffic Anomalous Event Detection System via Radar Detector Sensors](https://dl.acm.org/doi/10.1145/3716550.3725156)\
+Austin Coursey, Junyi Ji, Zhiyao Zhang, William Barbour, Marcos Quinones-Grueiro, Tyler Derr, Gautam Biswas, and Daniel Work. \
+ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS), Irvine, CA, USA, May 6 - 9, 2025.
+
+[Signed Network Dataset Repository: Extracting Signed Relations From Social Networks](https://ieeexplore.ieee.org/document/11161490)\
+Aikta Arya, Pradumn Kumar Pandey, and Tyler Derr. \
+IEEE International Conference on Communications (ICC), Montreal, Canada, June 8-12, 2025.
+
+Demystifying the Power of Large Language Models in Graph Generation.\
 Yu Wang, Ryan A. Rossi, Namyong Park, Nesreen K. Ahmed, Danai Koutra, Franck Dernoncourt, and Tyler Derr. \
 In Findings of the Association for Computational Linguistics: NAACL, Albuquerque, NM, USA, April 29 - May 4, 2025.
 
@@ -93,12 +195,14 @@ Yu Wang, Ryan Rossi, Namyong Park, Huiyuan Chen, Nesreen K.Ahmed, Puja Trivedi, 
 In Proceedings of the 13th International Conference on Learning Representations (ICLR), Singapore, April 24-28, 2025.
 
 [Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective](https://arxiv.org/abs/2410.08985)\
-Xueqi Cheng, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, and Tyler Derr. \
-In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI), Philadelphia, PA, USA, February 25 - March 4, 2025.
+Bo Ni, Yu Wang, Lu Cheng, Erik Blasch, and Tyler Derr. \
+In Proceedings of the 39th AAAI Conference on Artificial Intelligence (AAAI), Philadelphia, PA, USA, February 25 - March 4, 2025. \
+[Code repo](https://github.com/Arstanley/UAG)
 
 [Edge Classification on Graphs: New Directions in Topological Imbalance](https://arxiv.org/abs/2406.11685)\
 Xueqi Cheng, Yu Wang, Yunchao Liu, Yuying Zhao, Charu C. Aggarwal, and Tyler Derr. \
-In Proceedings of the 18th ACM International Conference on Web Search and Data Mining (WSDM), Hannover, Germany, March 10-14, 2025.
+In Proceedings of the 18th ACM International Conference on Web Search and Data Mining (WSDM), Hannover, Germany, March 10-14, 2025. \
+[Code repo](https://github.com/XueqiC/TopoEdge)
 
 ### Publications in 2024
 
